@@ -22,7 +22,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/ZuAlVi/AppTel.git
+git clone git@github.com:ZuAlVi/AppTel.git
 ```
 
 2. Создайте виртуальное окружение и активируйте его:
